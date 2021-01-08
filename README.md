@@ -2,7 +2,7 @@
 
 en
 Simple schulte table game to be performed with Flutter. 
-# A game of eliminating all buttons from 1 to 25 sequentially from 1 to 25 randomly arranged buttons.
+A game of eliminating all buttons from 1 to 25 sequentially from 1 to 25 randomly arranged buttons.
 
 tr
 Flutter ile geliştirilen basit schulte table oyunu. 
